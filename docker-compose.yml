@@ -1,0 +1,55 @@
+services:
+  # 1. КОНТЕЙНЕР БАЗЫ ДАННЫХ (POSTGRES)
+  postgres_db:
+    image: postgres:15-alpine
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=cinema_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=LolKek123!
+    ports:
+      - "5432:5432"
+    # База сообщает докеру, когда она на 100% готова принимать SQL-запросы
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d cinema_db"]
+      interval: 3s
+      timeout: 3s
+      retries: 5
+
+  # 2. КОНТЕЙНЕР БЭКЕНДА (DJANGO)
+  backend:
+    build:
+      context: ./cinema # Ищет Dockerfile в папке cinema
+    command: >
+      sh -c "python manage.py migrate &&
+            python manage.py runserver 0.0.0.0:8000"
+    volumes:
+      - ./cinema:/app # Синхронизация кода Python на лету
+    ports:
+      - "8000:8000"             
+    environment:
+      - DEBUG=True
+      - DB_NAME=cinema_db
+      - DB_USER=postgres
+      - DB_PASSWORD=LolKek123!
+      - DB_HOST=postgres_db
+      - DB_PORT=5432
+    depends_on:
+      postgres_db:
+        condition: service_healthy # Ждем полной готовности Postgres, защищая от Connection refused
+
+  # 3. КОНТЕЙНЕР ФРОНТЕНДА (REACT + VITE)
+  frontend:
+    build:
+      context: ./cinema_site # Ищет Dockerfile в папке cinema_site
+    ports:
+      - "5173:5173"             
+    volumes:
+      - ./cinema_site:/app  # Синхронизация кода React на лету (Hot Reload)
+      - /app/node_modules   # Изолируем папку библиотек внутри контейнера, спасая от "vite not found"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:

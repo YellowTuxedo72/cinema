@@ -1,0 +1,7474 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2026-06-05T12:47:30.309",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Закулисье реальности (База: 300.0 руб.)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2026-06-05T12:48:59.647",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "Дьявол носит Prada 2 (База: 300 руб.)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2026-06-05T12:51:10.847",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "Майкл (База: 350.0 руб.)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2026-06-05T12:53:44.907",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "Стандарт (+0.0 руб.)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2026-06-05T12:53:57.754",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Стандарт (+50 руб.)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2026-06-05T12:54:16.650",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Стандарт (+50.00 руб.)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2026-06-05T12:54:24.026",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Стандарт+ (+50.00 руб.)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u043a\\u0430\\u0442\\u0435\\u0433\\u043e\\u0440\\u0438\\u0438\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2026-06-05T13:03:47.009",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Глобальная наценка: 50.0 руб.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2026-06-05T13:11:52.583",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Закулисье реальности - 08.06 20:50",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2026-06-05T13:12:30.867",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Закулисье реальности - 08.06 20:50",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2026-06-05T15:03:46.221",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Закулисье реальности - 09.06 20:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2026-06-05T15:04:02.530",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Закулисье реальности - 09.06 20:50",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u0440\\u0435\\u043c\\u044f \\u043d\\u0430\\u0447\\u0430\\u043b\\u0430\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2026-06-05T15:04:27.379",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "3",
+        "object_repr": "Дьявол носит Prada 2 - 08.06 16:00",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2026-06-06T15:40:13.307",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "6",
+        "object_repr": "Билет #6 (yellowtuxedo72@gmail.com) - Ряд 7, Место 19",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2026-06-06T15:40:26.596",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "5",
+        "object_repr": "Билет #5 (yellowtuxedo72@gmail.com) - Ряд 7, Место 18",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2026-06-06T15:40:26.596",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "4",
+        "object_repr": "Билет #4 (yellowtuxedo72@gmail.com) - Ряд 7, Место 17",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2026-06-06T15:40:26.596",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "3",
+        "object_repr": "Билет #3 (yellowtuxedo72@gmail.com) - Ряд 7, Место 16",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2026-06-06T15:46:38.294",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "4",
+        "object_repr": "Майкл - 08.06 18:15",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2026-06-06T15:48:21.850",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "4",
+        "object_repr": "Майкл - 08.06 18:15",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2026-06-06T18:02:05.285",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "Майкл [18+] (База: 350.00 руб.)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043e\\u0437\\u0440\\u0430\\u0441\\u0442\\u043d\\u043e\\u0439 \\u0440\\u0435\\u0439\\u0442\\u0438\\u043d\\u0433\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2026-06-06T18:02:08.484",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "Дьявол носит Prada 2 [16+] (База: 300.00 руб.)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2026-06-06T18:02:18.092",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Закулисье реальности [18+] (База: 300.00 руб.)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u043e\\u0437\\u0440\\u0430\\u0441\\u0442\\u043d\\u043e\\u0439 \\u0440\\u0435\\u0439\\u0442\\u0438\\u043d\\u0433\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2026-06-06T21:26:02.882",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "2",
+        "object_repr": "manager",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2026-06-06T21:28:27.112",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "2",
+        "object_repr": "manager",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Staff status\", \"User permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2026-06-06T21:33:02.231",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "2",
+        "object_repr": "manager",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$mtZ4p86DiyaWPdOApogyhv$wA0hHj70Y8/Q6aeyxXSXY0VENfhPJCS+wbYNgIDdBJ0=",
+        "last_login": "2026-06-06T21:29:17.005",
+        "is_superuser": true,
+        "username": "yellowtuxedo",
+        "first_name": "",
+        "last_name": "",
+        "email": "lolkek@mail.ru",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-06-05T12:41:01.884",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$EwUWSDRHwtoOYYfe7o89x6$jrjIz5BYnX/pTK01M8yvN0mu1EsbY/E7KZZZmQbcIkk=",
+        "last_login": "2026-06-06T21:28:38",
+        "is_superuser": false,
+        "username": "manager",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-06-06T21:26:02",
+        "groups": [],
+        "user_permissions": [
+            49,
+            50,
+            52,
+            33,
+            36
+        ]
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "21rcunz1duh1xge3rm6c3dgu53bdv3er",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSEDw6O4dO83kBmgUjU0Ke3K-O_apAvd3nPOfYlI21rj1ssSpyzOQonT78aUHqXtIN-p3WaZ5rYuE8tdkQft8jrn8rwc7t9BpV6_tRktuAKIITEUcEFlTaOBkBAHRay8Nc7ZHLThAYNnQA9Kp8zOERUj3h--azcA:1wVq9N:KTXROk31MCvYwStqKNqbn85qmlj5p4Mr-aPke4joE54",
+        "expire_date": "2026-06-20T21:29:17.118"
+    }
+},
+{
+    "model": "app.cinemaconfig",
+    "pk": 1,
+    "fields": {
+        "weekend_markup": "50.00"
+    }
+},
+{
+    "model": "app.movie",
+    "pk": 1,
+    "fields": {
+        "title": "Закулисье реальности",
+        "description": "Есть место за пределами нашей реальности… Когда неудачливый продавец мебели Кларк обнаруживает скрытый портал в другое измерение в подвале своего магазина, он оказывается в бесконечном лабиринте извилистых жёлтых коридоров. В этом мире время и пространство не подчиняются логике, а нечто жуткое может скрываться за каждым углом.",
+        "duration_minutes": 110,
+        "base_price": "300.00",
+        "is_active": true,
+        "poster": "posters/24946.jpg",
+        "age_rating": "18+"
+    }
+},
+{
+    "model": "app.movie",
+    "pk": 2,
+    "fields": {
+        "title": "Дьявол носит Prada 2",
+        "description": "Редактор модного журнала Миранда Пристли борется за рекламные контракты со своей бывшей помощницей Эмили Чарлтон, ныне руководительницей конкурирующего издания. Пока печатные СМИ переживают кризис, Миранда готовится уйти на пенсию.",
+        "duration_minutes": 119,
+        "base_price": "300.00",
+        "is_active": true,
+        "poster": "posters/10076275.jpg",
+        "age_rating": "16+"
+    }
+},
+{
+    "model": "app.movie",
+    "pk": 3,
+    "fields": {
+        "title": "Майкл",
+        "description": "Он — один из самых успешных артистов всех времен, а его песни изменили мир навсегда. Но до того, как стать королём поп-музыки, собирающим стадионы поклонников, он был просто… Майклом. И легендарнее его музыки лишь его жизнь — полная взлётов и падений на пути к головокружительной славе.",
+        "duration_minutes": 127,
+        "base_price": "350.00",
+        "is_active": true,
+        "poster": "posters/25206.jpg",
+        "age_rating": "18+"
+    }
+},
+{
+    "model": "app.hall",
+    "pk": 1,
+    "fields": {
+        "name": "Зал 1"
+    }
+},
+{
+    "model": "app.seattier",
+    "pk": 1,
+    "fields": {
+        "name": "Стандарт",
+        "default_markup": "0.00"
+    }
+},
+{
+    "model": "app.seattier",
+    "pk": 2,
+    "fields": {
+        "name": "Стандарт+",
+        "default_markup": "50.00"
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 1,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 2,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 3,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 5,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 4,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 6,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 5,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 7,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 6,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 8,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 7,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 9,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 8,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 10,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 9,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 11,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 10,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 12,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 11,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 13,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 12,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 14,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 13,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 15,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 14,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 16,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 15,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 17,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 16,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 18,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 17,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 19,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 18,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 20,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 19,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 21,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 20,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 22,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 21,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 23,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 22,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 24,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 23,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 25,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 24,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 26,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 25,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 27,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 26,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 28,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 27,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 29,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 28,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 30,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 29,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 31,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 30,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 31,
+    "fields": {
+        "hall": 1,
+        "row": 1,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 32,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 33,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 34,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 35,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 5,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 36,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 6,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 37,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 7,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 38,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 8,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 39,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 9,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 40,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 10,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 41,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 11,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 42,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 12,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 43,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 13,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 44,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 14,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 45,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 15,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 46,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 16,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 47,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 17,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 48,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 18,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 49,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 19,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 50,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 20,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 51,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 21,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 52,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 22,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 53,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 23,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 54,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 24,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 55,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 25,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 56,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 26,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 57,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 27,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 58,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 28,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 59,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 29,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 60,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 30,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 61,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 31,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 62,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 63,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 64,
+    "fields": {
+        "hall": 1,
+        "row": 2,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 65,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 66,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 67,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 68,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 5,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 69,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 6,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 70,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 7,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 71,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 8,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 72,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 9,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 73,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 10,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 74,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 11,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 75,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 12,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 76,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 13,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 77,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 14,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 78,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 15,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 79,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 16,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 80,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 17,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 81,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 18,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 82,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 19,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 83,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 20,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 84,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 21,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 85,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 22,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 86,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 23,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 87,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 24,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 88,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 25,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 89,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 26,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 90,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 27,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 91,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 28,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 92,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 29,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 93,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 30,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 94,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 31,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 95,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 96,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 97,
+    "fields": {
+        "hall": 1,
+        "row": 3,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 98,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 99,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 100,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 101,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 102,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 5,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 103,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 6,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 104,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 7,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 105,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 8,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 106,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 9,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 107,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 10,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 108,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 11,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 109,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 12,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 110,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 13,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 111,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 14,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 112,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 15,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 113,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 16,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 114,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 17,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 115,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 18,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 116,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 19,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 117,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 20,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 118,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 21,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 119,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 22,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 120,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 23,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 121,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 24,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 122,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 25,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 123,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 26,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 124,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 27,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 125,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 28,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 126,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 29,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 127,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 30,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 128,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 31,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 129,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 130,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 131,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 132,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 133,
+    "fields": {
+        "hall": 1,
+        "row": 4,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 134,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 135,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 136,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 137,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 138,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 5,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 139,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 6,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 140,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 7,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 141,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 8,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 142,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 9,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 143,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 10,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 144,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 11,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 145,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 12,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 146,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 13,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 147,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 14,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 148,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 15,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 149,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 16,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 150,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 17,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 151,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 18,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 152,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 19,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 153,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 20,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 154,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 21,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 155,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 22,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 156,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 23,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 157,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 24,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 158,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 25,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 159,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 26,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 160,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 27,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 161,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 28,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 162,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 29,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 163,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 30,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 164,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 31,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 165,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 166,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 167,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 168,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 169,
+    "fields": {
+        "hall": 1,
+        "row": 5,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 170,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 171,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 172,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 173,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 174,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 5,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 175,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 6,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 176,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 7,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 177,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 8,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 178,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 9,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 179,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 10,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 180,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 11,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 181,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 12,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 182,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 13,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 183,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 14,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 184,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 15,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 185,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 16,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 186,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 17,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 187,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 18,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 188,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 19,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 189,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 20,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 190,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 21,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 191,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 22,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 192,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 23,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 193,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 24,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 194,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 25,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 195,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 26,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 196,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 27,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 197,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 28,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 198,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 29,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 199,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 30,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 200,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 31,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 201,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 202,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 203,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 204,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 205,
+    "fields": {
+        "hall": 1,
+        "row": 6,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 206,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 207,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 208,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 209,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 210,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 211,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 212,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 213,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 214,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 215,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 216,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 217,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 218,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 219,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 220,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 221,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 222,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 223,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 224,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 225,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 226,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 227,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 228,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 229,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 230,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 231,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 232,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 233,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 234,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 235,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 236,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 237,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 32,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 238,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 239,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 240,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 241,
+    "fields": {
+        "hall": 1,
+        "row": 7,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 242,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 243,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 244,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 245,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 246,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 247,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 248,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 249,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 250,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 251,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 252,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 253,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 254,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 255,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 256,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 257,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 258,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 259,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 260,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 261,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 262,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 263,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 264,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 265,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 266,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 267,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 268,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 269,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 270,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 271,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 272,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 273,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 32,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 274,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 275,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 276,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 277,
+    "fields": {
+        "hall": 1,
+        "row": 8,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 278,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 279,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 280,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 281,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 282,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 283,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 284,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 285,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 286,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 287,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 288,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 289,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 290,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 291,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 292,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 293,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 294,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 295,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 296,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 297,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 298,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 299,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 300,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 301,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 302,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 303,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 304,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 305,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 306,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 307,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 308,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 309,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 32,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 310,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 311,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 312,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 313,
+    "fields": {
+        "hall": 1,
+        "row": 9,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 314,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 315,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 316,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 317,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 318,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 319,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 320,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 321,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 322,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 323,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 324,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 325,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 326,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 327,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 328,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 329,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 330,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 331,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 332,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 333,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 334,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 335,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 336,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 337,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 338,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 339,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 340,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 341,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 342,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 343,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 344,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 345,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 32,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 346,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 347,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 348,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 349,
+    "fields": {
+        "hall": 1,
+        "row": 10,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 350,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 351,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 352,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 353,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 354,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 355,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 356,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 357,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 358,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 359,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 360,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 361,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 362,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 363,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 364,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 365,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 366,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 367,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 368,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 369,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 370,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 371,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 372,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 373,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 374,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 375,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 376,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 377,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 378,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 379,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 380,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 381,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 32,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 382,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 383,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 384,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 385,
+    "fields": {
+        "hall": 1,
+        "row": 11,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 386,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 387,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 388,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 389,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 390,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 391,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 392,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 393,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 394,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 395,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 396,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 397,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 398,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 399,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 400,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 401,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 402,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 403,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 404,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 405,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 406,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 407,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 408,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 409,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 410,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 411,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 412,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 413,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 414,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 415,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 416,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 417,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 32,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 418,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 419,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 420,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 421,
+    "fields": {
+        "hall": 1,
+        "row": 12,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 422,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 423,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 424,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 425,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 426,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 427,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 428,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 429,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 430,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 431,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 432,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 433,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 434,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 435,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 436,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 437,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 438,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 439,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 440,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 441,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 442,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 443,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 444,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 445,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 446,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 447,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 448,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 449,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 450,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 451,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 32,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 452,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 453,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 454,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 455,
+    "fields": {
+        "hall": 1,
+        "row": 13,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 456,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 1,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 457,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 458,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 459,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 460,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 461,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 462,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 463,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 464,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 465,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 466,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 467,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 468,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 469,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 470,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 471,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 472,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 473,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 474,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 475,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 476,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 477,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 478,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 479,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 480,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 481,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 482,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 483,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 484,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 485,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 486,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 487,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 32,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 488,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 489,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 490,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 491,
+    "fields": {
+        "hall": 1,
+        "row": 14,
+        "seat_number": 36,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 492,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 493,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 494,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 495,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 496,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 497,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 498,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 499,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 500,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 501,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 502,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 503,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 504,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 505,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 506,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 507,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 508,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 509,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 510,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 511,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 512,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 513,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 514,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 515,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 516,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 517,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 518,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 519,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 520,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 521,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 522,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 523,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 524,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 525,
+    "fields": {
+        "hall": 1,
+        "row": 15,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 526,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 2,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 527,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 528,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 529,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 5,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 530,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 531,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 532,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 533,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 534,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 535,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 536,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 537,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 538,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 539,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 540,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 541,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 542,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 543,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 544,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 545,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 546,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 547,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 548,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 549,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 550,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 551,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 552,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 553,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 29,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 554,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 30,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 555,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 31,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 556,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 557,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 558,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 34,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 559,
+    "fields": {
+        "hall": 1,
+        "row": 16,
+        "seat_number": 35,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 560,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 3,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 561,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 4,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 562,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 5,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 563,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 6,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 564,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 7,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 565,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 8,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 566,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 9,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 567,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 10,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 568,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 11,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 569,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 12,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 570,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 13,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 571,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 14,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 572,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 15,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 573,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 16,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 574,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 17,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 575,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 18,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 576,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 19,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 577,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 20,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 578,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 21,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 579,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 22,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 580,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 23,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 581,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 24,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 582,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 25,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 583,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 26,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 584,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 27,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 585,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 28,
+        "tier": 2
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 586,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 29,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 587,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 30,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 588,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 31,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 589,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 32,
+        "tier": 1
+    }
+},
+{
+    "model": "app.hallseat",
+    "pk": 590,
+    "fields": {
+        "hall": 1,
+        "row": 17,
+        "seat_number": 33,
+        "tier": 1
+    }
+},
+{
+    "model": "app.session",
+    "pk": 1,
+    "fields": {
+        "movie": 1,
+        "hall": 1,
+        "start_time": "2026-06-08T20:50:00"
+    }
+},
+{
+    "model": "app.session",
+    "pk": 2,
+    "fields": {
+        "movie": 1,
+        "hall": 1,
+        "start_time": "2026-06-09T20:50:00"
+    }
+},
+{
+    "model": "app.session",
+    "pk": 3,
+    "fields": {
+        "movie": 2,
+        "hall": 1,
+        "start_time": "2026-06-08T16:00:00"
+    }
+},
+{
+    "model": "app.session",
+    "pk": 4,
+    "fields": {
+        "movie": 3,
+        "hall": 1,
+        "start_time": "2026-06-08T18:15:00"
+    }
+},
+{
+    "model": "app.sessionprice",
+    "pk": 1,
+    "fields": {
+        "session": 1,
+        "tier": 1,
+        "final_price": "300.00"
+    }
+},
+{
+    "model": "app.sessionprice",
+    "pk": 2,
+    "fields": {
+        "session": 1,
+        "tier": 2,
+        "final_price": "350.00"
+    }
+},
+{
+    "model": "app.sessionprice",
+    "pk": 3,
+    "fields": {
+        "session": 2,
+        "tier": 1,
+        "final_price": "300.00"
+    }
+},
+{
+    "model": "app.sessionprice",
+    "pk": 4,
+    "fields": {
+        "session": 2,
+        "tier": 2,
+        "final_price": "350.00"
+    }
+},
+{
+    "model": "app.sessionprice",
+    "pk": 5,
+    "fields": {
+        "session": 3,
+        "tier": 1,
+        "final_price": "300.00"
+    }
+},
+{
+    "model": "app.sessionprice",
+    "pk": 6,
+    "fields": {
+        "session": 3,
+        "tier": 2,
+        "final_price": "350.00"
+    }
+},
+{
+    "model": "app.sessionprice",
+    "pk": 7,
+    "fields": {
+        "session": 4,
+        "tier": 1,
+        "final_price": "350.00"
+    }
+},
+{
+    "model": "app.sessionprice",
+    "pk": 8,
+    "fields": {
+        "session": 4,
+        "tier": 2,
+        "final_price": "400.00"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 1,
+    "fields": {
+        "session": 1,
+        "user": null,
+        "customer_email": "mail@mail.ru",
+        "customer_phone": "3223525",
+        "hall_seat": 185,
+        "final_price": "300.00",
+        "status": "paid",
+        "created_at": "2026-06-06T00:38:03.118",
+        "expires_at": null
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 2,
+    "fields": {
+        "session": 1,
+        "user": null,
+        "customer_email": "mail@mail.ru",
+        "customer_phone": "3223525",
+        "hall_seat": 186,
+        "final_price": "300.00",
+        "status": "paid",
+        "created_at": "2026-06-06T00:38:03.121",
+        "expires_at": null
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 7,
+    "fields": {
+        "session": 3,
+        "user": null,
+        "customer_email": "yellowtuxedo72@gmail.com",
+        "customer_phone": "+79963134694",
+        "hall_seat": 184,
+        "final_price": "300.00",
+        "status": "paid",
+        "created_at": "2026-06-06T15:41:10.129",
+        "expires_at": "2026-06-06T15:56:10.097"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 8,
+    "fields": {
+        "session": 3,
+        "user": null,
+        "customer_email": "yellowtuxedo72@gmail.com",
+        "customer_phone": "+79963134694",
+        "hall_seat": 185,
+        "final_price": "300.00",
+        "status": "paid",
+        "created_at": "2026-06-06T15:41:10.132",
+        "expires_at": "2026-06-06T15:56:10.131"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 9,
+    "fields": {
+        "session": 3,
+        "user": null,
+        "customer_email": "234234@mail.ru",
+        "customer_phone": "5325235",
+        "hall_seat": 262,
+        "final_price": "350.00",
+        "status": "canceled",
+        "created_at": "2026-06-06T15:41:49.217",
+        "expires_at": "2026-06-06T15:56:49.216"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 10,
+    "fields": {
+        "session": 1,
+        "user": null,
+        "customer_email": "test@mail.ru",
+        "customer_phone": "+799999999999",
+        "hall_seat": 187,
+        "final_price": "300.00",
+        "status": "paid",
+        "created_at": "2026-06-06T16:57:23.700",
+        "expires_at": "2026-06-06T17:12:23.666"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 11,
+    "fields": {
+        "session": 1,
+        "user": null,
+        "customer_email": "test@mail.ru",
+        "customer_phone": "+799999999999",
+        "hall_seat": 188,
+        "final_price": "300.00",
+        "status": "paid",
+        "created_at": "2026-06-06T16:57:23.702",
+        "expires_at": "2026-06-06T17:12:23.701"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 12,
+    "fields": {
+        "session": 1,
+        "user": null,
+        "customer_email": "test@mail.ru",
+        "customer_phone": "+799999999999",
+        "hall_seat": 189,
+        "final_price": "300.00",
+        "status": "paid",
+        "created_at": "2026-06-06T16:57:23.704",
+        "expires_at": "2026-06-06T17:12:23.703"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 13,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 210,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.885",
+        "expires_at": "2026-06-06T17:27:29.884"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 14,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 211,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.887",
+        "expires_at": "2026-06-06T17:27:29.886"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 15,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 212,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.888",
+        "expires_at": "2026-06-06T17:27:29.887"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 16,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 213,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.889",
+        "expires_at": "2026-06-06T17:27:29.888"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 17,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 214,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.890",
+        "expires_at": "2026-06-06T17:27:29.889"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 18,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 215,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.891",
+        "expires_at": "2026-06-06T17:27:29.890"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 19,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 216,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.892",
+        "expires_at": "2026-06-06T17:27:29.891"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 20,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 217,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.893",
+        "expires_at": "2026-06-06T17:27:29.892"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 21,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 218,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.894",
+        "expires_at": "2026-06-06T17:27:29.893"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 22,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 219,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.896",
+        "expires_at": "2026-06-06T17:27:29.895"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 23,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 220,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.897",
+        "expires_at": "2026-06-06T17:27:29.896"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 24,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 221,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.899",
+        "expires_at": "2026-06-06T17:27:29.898"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 25,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 222,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.900",
+        "expires_at": "2026-06-06T17:27:29.899"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 26,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 223,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.901",
+        "expires_at": "2026-06-06T17:27:29.900"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 27,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 224,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.902",
+        "expires_at": "2026-06-06T17:27:29.901"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 28,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 225,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.903",
+        "expires_at": "2026-06-06T17:27:29.902"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 29,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 226,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.904",
+        "expires_at": "2026-06-06T17:27:29.903"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 30,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 227,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.905",
+        "expires_at": "2026-06-06T17:27:29.904"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 31,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 228,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.906",
+        "expires_at": "2026-06-06T17:27:29.905"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 32,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 229,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.907",
+        "expires_at": "2026-06-06T17:27:29.906"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 33,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 230,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.908",
+        "expires_at": "2026-06-06T17:27:29.908"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 34,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 231,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.910",
+        "expires_at": "2026-06-06T17:27:29.909"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 35,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 232,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.911",
+        "expires_at": "2026-06-06T17:27:29.910"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 36,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 233,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.912",
+        "expires_at": "2026-06-06T17:27:29.911"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 37,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 234,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.913",
+        "expires_at": "2026-06-06T17:27:29.912"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 38,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 235,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.914",
+        "expires_at": "2026-06-06T17:27:29.913"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 39,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 236,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.915",
+        "expires_at": "2026-06-06T17:27:29.914"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 40,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 237,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.916",
+        "expires_at": "2026-06-06T17:27:29.915"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 41,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 246,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.917",
+        "expires_at": "2026-06-06T17:27:29.916"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 42,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 247,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.918",
+        "expires_at": "2026-06-06T17:27:29.917"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 43,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 248,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.919",
+        "expires_at": "2026-06-06T17:27:29.918"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 44,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 249,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.920",
+        "expires_at": "2026-06-06T17:27:29.919"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 45,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 250,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.922",
+        "expires_at": "2026-06-06T17:27:29.921"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 46,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 251,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.923",
+        "expires_at": "2026-06-06T17:27:29.922"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 47,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 252,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.924",
+        "expires_at": "2026-06-06T17:27:29.923"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 48,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 253,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.925",
+        "expires_at": "2026-06-06T17:27:29.924"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 49,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 254,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.926",
+        "expires_at": "2026-06-06T17:27:29.925"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 50,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 255,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.927",
+        "expires_at": "2026-06-06T17:27:29.926"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 51,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 256,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.928",
+        "expires_at": "2026-06-06T17:27:29.927"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 52,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 257,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.929",
+        "expires_at": "2026-06-06T17:27:29.928"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 53,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 258,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.930",
+        "expires_at": "2026-06-06T17:27:29.929"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 54,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 259,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.931",
+        "expires_at": "2026-06-06T17:27:29.930"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 55,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 260,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.932",
+        "expires_at": "2026-06-06T17:27:29.931"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 56,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 261,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.933",
+        "expires_at": "2026-06-06T17:27:29.932"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 57,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 262,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.934",
+        "expires_at": "2026-06-06T17:27:29.933"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 58,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 263,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.935",
+        "expires_at": "2026-06-06T17:27:29.934"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 59,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 264,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.936",
+        "expires_at": "2026-06-06T17:27:29.935"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 60,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 265,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.937",
+        "expires_at": "2026-06-06T17:27:29.936"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 61,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 266,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.938",
+        "expires_at": "2026-06-06T17:27:29.937"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 62,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 267,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.939",
+        "expires_at": "2026-06-06T17:27:29.938"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 63,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 268,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.940",
+        "expires_at": "2026-06-06T17:27:29.940"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 64,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 269,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.941",
+        "expires_at": "2026-06-06T17:27:29.941"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 65,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 270,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.943",
+        "expires_at": "2026-06-06T17:27:29.942"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 66,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 271,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.944",
+        "expires_at": "2026-06-06T17:27:29.943"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 67,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 272,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.945",
+        "expires_at": "2026-06-06T17:27:29.944"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 68,
+    "fields": {
+        "session": 4,
+        "user": null,
+        "customer_email": "test2@gmail.com",
+        "customer_phone": "+78005553535",
+        "hall_seat": 273,
+        "final_price": "400.00",
+        "status": "paid",
+        "created_at": "2026-06-06T17:12:29.946",
+        "expires_at": "2026-06-06T17:27:29.945"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 69,
+    "fields": {
+        "session": 3,
+        "user": null,
+        "customer_email": "test3@mail.ru",
+        "customer_phone": "+7 (996) 313-46-94",
+        "hall_seat": 297,
+        "final_price": "350.00",
+        "status": "paid",
+        "created_at": "2026-06-06T20:35:57.636",
+        "expires_at": "2026-06-06T20:50:57.601"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 70,
+    "fields": {
+        "session": 2,
+        "user": null,
+        "customer_email": "yellowtuxedo72@gmail.com",
+        "customer_phone": "+7 (995) 134-31-41",
+        "hall_seat": 222,
+        "final_price": "350.00",
+        "status": "paid",
+        "created_at": "2026-06-06T20:41:36.797",
+        "expires_at": "2026-06-06T20:56:36.763"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 71,
+    "fields": {
+        "session": 2,
+        "user": null,
+        "customer_email": "yellowtuxedo72@gmail.com",
+        "customer_phone": "+7 (995) 134-31-41",
+        "hall_seat": 223,
+        "final_price": "350.00",
+        "status": "paid",
+        "created_at": "2026-06-06T20:41:36.800",
+        "expires_at": "2026-06-06T20:56:36.799"
+    }
+},
+{
+    "model": "app.ticket",
+    "pk": 72,
+    "fields": {
+        "session": 2,
+        "user": null,
+        "customer_email": "yellowtuxedo72@gmail.com",
+        "customer_phone": "+7 (995) 134-31-41",
+        "hall_seat": 224,
+        "final_price": "350.00",
+        "status": "paid",
+        "created_at": "2026-06-06T20:41:36.801",
+        "expires_at": "2026-06-06T20:56:36.800"
+    }
+}
+]
