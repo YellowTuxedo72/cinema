@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8000/api';
+const BASE_URL = 'http://31.129.106.22:8000/api';
 
 export const cinemaApi = {
   // Получить фильмы для главной страницы (Афиши)
