@@ -12,32 +12,16 @@ class OrderService:
 
         clear_expired_bookings()
 
-        ticket_ids = [
-            int(i)
-            for i in tickets_str.split(",")
-            if i.isdigit()
-        ]
+        ticket_ids = [int(i) for i in tickets_str.split(",") if i.isdigit()]
 
-        tickets = (
-            Ticket.objects.filter(
-                id__in=ticket_ids
-            )
-            .select_related(
-                "session__movie",
-                "session__hall",
-                "hall_seat"
-            )
-        )
+        tickets = (Ticket.objects.filter(id__in=ticket_ids).select_related("session__movie","session__hall","hall_seat"))
 
         if not tickets.exists():
             raise Http404("Заказ не найден")
 
         first_ticket = tickets.first()
 
-        total_price = sum(
-            t.final_price
-            for t in tickets
-        )
+        total_price = sum(t.final_price for t in tickets)
 
         tickets_info = [
             {
