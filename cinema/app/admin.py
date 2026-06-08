@@ -5,19 +5,12 @@ from .models import CinemaConfig, Movie, Hall, SeatTier, HallSeat, Session, Sess
 # Настройка заголовков самой админки
 admin.site.site_header = "Панель управления кинотеатром"
 admin.site.site_title = "Администрация Кино"
-admin.site.index_title = "Управление репертуаром и билетами"
-
-
-# ==========================================
-# 1. ГЛОБАЛЬНЫЕ НАСТРОЙКИ И СПРАВОЧНИКИ
-# ==========================================
 
 @admin.register(CinemaConfig)
 class CinemaConfigAdmin(admin.ModelAdmin):
     list_display = ['weekend_markup']
     
     def has_add_permission(self, request):
-        """Запрещает создавать вторую строку настроек, если одна уже есть."""
         if CinemaConfig.objects.exists():
             return False
         return super().has_add_permission(request)
@@ -28,12 +21,7 @@ class SeatTierAdmin(admin.ModelAdmin):
     list_display = ['name', 'default_markup']
 
 
-# ==========================================
-# 2. УПРАВЛЕНИЕ КИНОЗАЛАМИ И МЕСТАМИ
-# ==========================================
-
 class HallSeatInline(admin.TabularInline):
-    """Позволяет быстро добавлять места прямо на странице кинозала."""
     model = HallSeat
     extra = 5  # Сколько пустых строк для новых мест выводить по умолчанию
     fields = ['row', 'seat_number', 'tier']
@@ -45,14 +33,8 @@ class HallAdmin(admin.ModelAdmin):
     inlines = [HallSeatInline]
 
     def get_total_seats(self, obj):
-        """Выводит общее количество кресел в зале."""
         return obj.seats.count()
     get_total_seats.short_description = "Всего мест в зале"
-
-
-# ==========================================
-# 3. УПРАВЛЕНИЕ ФИЛЬМАМИ
-# ==========================================
 
 @admin.register(Movie)
 class MovieAdmin(admin.ModelAdmin):
@@ -78,12 +60,7 @@ class MovieAdmin(admin.ModelAdmin):
         }),
     ]
 
-# ==========================================
-# 4. СЕАНСЫ И АВТОМАТИЧЕСКИЕ ЦЕНЫ (ГЛАВНЫЙ ЭКРАН МЕНЕДЖЕРА)
-# ==========================================
-
 class SessionPriceInline(admin.TabularInline):
-    """Отображает сгенерированные цены прямо внутри карточки сеанса."""
     model = SessionPrice
     extra = 0
     # Запрещаем менеджеру вручную править рассчитанные цены, чтобы не ломать логику
@@ -92,7 +69,6 @@ class SessionPriceInline(admin.TabularInline):
 
 
 class SessionStatusFilter(admin.SimpleListFilter):
-    """Кастомный боковой фильтр: Прошедшие сеансы / Актуальные сеансы."""
     title = 'Статус проведения'
     parameter_name = 'status'
 
@@ -119,17 +95,11 @@ class SessionAdmin(admin.ModelAdmin):
     inlines = [SessionPriceInline]
 
     def get_prices_status(self, obj):
-        """Визуальный индикатор в общем списке: сгенерировались ли цены."""
         count = obj.prices.count()
         if count > 0:
             return f"Прайс готов ({count} кат.)"
-        return "❌ Цены не сгенерированы"
+        return "Цены не сгенерированы"
     get_prices_status.short_description = "Статус прайс-листа"
-
-
-# ==========================================
-# 5. КОНТРОЛЬ ПРОДАЖ БИЛЕТОВ
-# ==========================================
 
 @admin.register(Ticket)
 class TicketAdmin(admin.ModelAdmin):
@@ -146,6 +116,5 @@ class TicketAdmin(admin.ModelAdmin):
     ]
 
     def get_seat_info(self, obj):
-        """Формирует красивую строку с местом для общего списка билетов."""
         return f"Ряд {obj.hall_seat.row}, Мест {obj.hall_seat.seat_number}"
     get_seat_info.short_description = "Место в зале"
