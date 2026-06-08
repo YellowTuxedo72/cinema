@@ -139,12 +139,6 @@ export default function OrderStatusPage() {
                     <p style={styles.ticketValue}>{ticket.seat_number}</p>
                   </div>
                   <div style={styles.ticketRight}>
-                    {/* Фейковый QR-код, сгенерированный с помощью бесплатного сервиса картинок */}
-                    <img 
-                      src={`https://qrserver.com{encodeURIComponent(ticket.ticket_id)}`} 
-                      alt="QR-код билета" 
-                      style={styles.qrCode}
-                    />
                     <span style={styles.ticketId}>№ {ticket.ticket_id}</span>
                   </div>
                 </div>
