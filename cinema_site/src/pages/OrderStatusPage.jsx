@@ -42,7 +42,7 @@ export default function OrderStatusPage() {
     setPaying(true);
 
     // Стучимся на созданный нами в Django Ninja эндпоинт фейк-оплаты
-    fetch(`http://127.0.0.1:8000/api/payment/mock/${ticketsStr}/pay/`, {
+    fetch(`http://31.129.106.22:8000/api/payment/mock/${ticketsStr}/pay/`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' }
     })
