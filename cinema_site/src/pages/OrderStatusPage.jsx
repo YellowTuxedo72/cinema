@@ -17,7 +17,7 @@ export default function OrderStatusPage() {
   const loadOrderStatus = () => {
     setLoading(true);
     setError(null);
-    fetch(`http://127.0.0.1:8000/api/tickets/order-status/${ticketsStr}/`)
+    fetch(`http://31.129.106.22:8000/api/tickets/order-status/${ticketsStr}/`)
       .then((res) => {
         if (!res.ok) throw new Error("Не удалось получить данные о заказе.");
         return res.json();
